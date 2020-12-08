@@ -1,5 +1,4 @@
 # OBJECT ORIENTED JAVA PROGRAMS
-#(USN : 1BM19CSO75)
 
 
 
@@ -16,6 +15,8 @@
 *MENTOR - NANDINI VINEETH MADAM*
 
 *STUDENT NAME - KRISHNA.MOHAN.DULLOLLI*
+
+* USN : 1BM19CSO75*
 
 ************************************************************************
 
